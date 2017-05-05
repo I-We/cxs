@@ -1,5 +1,5 @@
 {
-  "name": "cxs",
+  "name": "@iwe/cxs",
   "version": "3.0.4",
   "description": "A CSS-in-JS solution for functional CSS in functional UI components",
   "main": "atomic.js",
@@ -16,6 +16,7 @@
     "test": "ava -v",
     "test-all": "ava -v && ava -v packages/cxs-components/test && ava -v packages/react-cxs/test && ava -v packages/react-cxs-hoc/test"
   },
+  "repository": "https://github.com/I-We/cxs",
   "keywords": [],
   "author": "Brent Jackson",
   "license": "MIT",
